@@ -7,3 +7,5 @@ bool - true,false
 type variableName = value;
 
 int age = 25;
+
+int a, b = 10, c
