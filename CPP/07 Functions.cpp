@@ -63,3 +63,13 @@ int countdown(int n) {
     std::cout << n << " ";
     return countdown(n - 1); // Recursive call
 }
+
+// example of a function
+
+int add(int a, int b)   {
+    return a + b;
+}
+
+// to call it you have to use the function name and pass the required parameters
+
+add(5, 3); // This will return 8
