@@ -12,7 +12,7 @@ int main() {
     cout << "Value at the address ptr points to: " << *ptr << endl;
 }
 
-int* = makes variables only for storaing memory adresses
+int* = // makes variables only for storaing memory adresses
 
 target = 100
 &target = 0x7ffee3b8c9ac
